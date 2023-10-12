@@ -28,6 +28,9 @@ public class PangramChecker {
                 letterSet.add(Character.toLowerCase(c));
             }
         }
+Output:
+Enter a Roman Numeral: Vi
+Integer equivalent: 6
 
         // Check if the size of the set is 26 (number of English alphabet letters)
         return letterSet.size() == 26;
