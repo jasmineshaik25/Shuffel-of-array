@@ -35,6 +35,5 @@ public class PangramChecker {
     }
 }
 
-Output:
-Enter a Roman Numeral: Vi
-Integer equivalent: 6
+Enter a string: jasmine
+The input is not a pangram
